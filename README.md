@@ -30,7 +30,7 @@ I like taking ideas from a rough concept to working products — from low-level 
 | [**DataVigil**](https://github.com/siddarth1872004/DataVigil) | A ReAct data agent for natural-language-to-SQL, anomaly detection, and interactive dashboard generation, with SQL validation and prompt-injection protection. | Python, LangGraph, FastAPI, scikit-learn, Plotly |
 | [**NutriTrack**](https://github.com/siddarth1872004/NutriTrack) | A nutrition and weight tracker with user, dietitian, and admin workflows. | Web stack |
 
-### Also building
+### Also built
 
 - **[Xeno](https://play.google.com/store/apps/details?id=com.xeno.launcher&hl=en_IN)** — a customizable Android launcher focused on freeform layouts, personalization, and productivity, with an active user community.
 
